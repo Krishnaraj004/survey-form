@@ -1,0 +1,40 @@
+.form{
+    border: 1px solid gray;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px gray;
+    width: 500px;
+    height: 650px;
+    padding: 10px;
+    margin: 0 auto;
+}
+#cc{
+    position: relative;
+    top: 20px;
+}
+.img{
+    position: relative;
+    top: 20px;
+}
+
+.form label{
+    margin-top: 20px;
+}
+
+.form input{
+    margin-top: 40px;
+    background-color: rgb(211, 204, 204);
+}
+.bottom{
+    padding: 40px;
+}
+.bottom input{
+    margin: 20px;
+}
+button{
+    width: 100%;
+    font-size: 16px;
+    border: 1px solid orange;
+    padding: 4px;
+    background-color: orange;
+    color: white;
+}
